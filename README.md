@@ -1,4 +1,4 @@
-#Goal: Preparing raw data for analytics
+# Goal: Preparing raw data for analytics
 
 1. Remove Duplicates
 2. Standardize the Data
